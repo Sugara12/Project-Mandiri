@@ -1,4 +1,4 @@
-package id.my.donny.jualbelihp_ti17d4.adapter;
+package id.my.sugara.jualbelihp_ti17d4.adapter;
 
 import android.content.Context;
 import android.view.LayoutInflater;
@@ -12,8 +12,8 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import id.my.donny.jualbelihp_ti17d4.R;
-import id.my.donny.jualbelihp_ti17d4.model.Handphone;
+import id.my.sugara.jualbelihp_ti17d4.R;
+import id.my.sugara.jualbelihp_ti17d4.model.Handphone;
 
 public class ListAdapterHandphone extends BaseAdapter implements Filterable {
     private Context context;
