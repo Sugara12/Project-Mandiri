@@ -1,4 +1,4 @@
-package id.my.sugara.jualbelihp_ti17d4;
+package id.my.donny.jualbelihp_ti17d4;
 
 import org.junit.Test;
 

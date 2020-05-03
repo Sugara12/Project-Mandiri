@@ -1,4 +1,4 @@
-package id.my.sugara.jualbelihp_ti17d4.model;
+package id.my.donny.jualbelihp_ti17d4.model;
 
 public class Handphone {
     private Integer id;

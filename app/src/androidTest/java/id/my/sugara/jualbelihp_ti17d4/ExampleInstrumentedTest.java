@@ -1,4 +1,4 @@
-package id.my.sugara.jualbelihp_ti17d4;
+package id.my.donny.jualbelihp_ti17d4;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("id.my.sugara.jualbelihp_ti17d4", appContext.getPackageName());
+        assertEquals("id.my.donny.jualbelihp_ti17d4", appContext.getPackageName());
     }
 }
